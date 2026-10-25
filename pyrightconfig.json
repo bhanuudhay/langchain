@@ -1,0 +1,13 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "include": [
+    "hello-world",
+    "hello-world-with-ollma",
+    "langsmith-tracing"
+  ],
+  "exclude": [
+    "**/.venv"
+  ],
+  "typeCheckingMode": "standard"
+}
