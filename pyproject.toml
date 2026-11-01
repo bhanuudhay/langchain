@@ -14,6 +14,10 @@ members = [
     "hello-world-with-ollma",
     "langsmith-tracing",
     "react-search-agent",
+    "structured-output-format",
+    "agent-under-the-hood",
+    "rag-giest",
+    "document-helper",
 ]
 
 [dependency-groups]

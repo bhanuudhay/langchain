@@ -2,10 +2,14 @@
   "venvPath": ".",
   "venv": ".venv",
   "include": [
+    "agent-under-the-hood",
+    "document-helper",
     "hello-world",
     "hello-world-with-ollma",
     "langsmith-tracing",
-    "react-search-agent"
+    "rag-giest",
+    "react-search-agent",
+    "structured-output-format"
   ],
   "exclude": [
     "**/.venv"
